@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/matten/Documents/Github/Unity/VR-Teleoperation-Robotics-Platform/src/build/so_arm_description/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
